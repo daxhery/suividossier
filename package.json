@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@angular-material-components/datetime-picker": "^16.0.1",
+    "material-design-icons": "^3.0.1"
+  }
+}
